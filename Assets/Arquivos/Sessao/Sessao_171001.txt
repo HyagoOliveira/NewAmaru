@@ -1,0 +1,52 @@
+Inicio da Sessao: 17:08:20 - 10/01/2016
+Tarefa Criada: Tipo Tarefa -> [AB, Peso: 0.06, Dificuldade: 1]; Modelo -> [pipa, Num Silabas: 2]; TL: 0; TMov: 0, TMj: 0, TP: 0, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [AB, Peso: 0.06, Dificuldade: 1]; Modelo -> [pipa, Num Silabas: 2]; TL: 2.379635; TMov: 3.109555, TMj: 5.489191, TP: 2.379635, Acertou Ultima: True
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 0; JETPACK, Rank: 0; ], Melhor: CUBE, Rank: 0
+Acertou Tarefa.
+Dificuldades: DE = 0.7178048, DD = 0.9762887
+	Atualizando conhecimento da palavra modelo
+		Nao foram realizados tarefas suficientes para analise do conhecimento dessa palavra
+	Nao ha tarefas pendentes no Buffer
+
+Tarefa Criada: Tipo Tarefa -> [BC, Peso: 0.1, Dificuldade: 2]; Modelo -> [bolo, Num Silabas: 2]; TL: 0; TMov: 0, TMj: 0, TP: 0, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [BC, Peso: 0.1, Dificuldade: 2]; Modelo -> [bolo, Num Silabas: 2]; TL: 3.011139; TMov: 3.423795, TMj: 6.434934, TP: 3.011139, Acertou Ultima: True
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 0; JETPACK, Rank: 0; ], Melhor: CUBE, Rank: 0
+Acertou Tarefa.
+Dificuldades: DE = 0.5978689, DD = 0.9733478
+	Atualizando conhecimento da palavra modelo
+		Nao foram realizados tarefas suficientes para analise do conhecimento dessa palavra
+	Nao ha tarefas pendentes no Buffer
+
+Tarefa Criada: Tipo Tarefa -> [CB, Peso: 0.2, Dificuldade: 4]; Modelo -> [tatu, Num Silabas: 2]; TL: 0; TMov: 0, TMj: 0, TP: 0, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [CB, Peso: 0.2, Dificuldade: 4]; Modelo -> [tatu, Num Silabas: 2]; TL: 1.612318; TMov: 2.295454, TMj: 3.907772, TP: 1.612317, Acertou Ultima: True
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 0; JETPACK, Rank: 0; ], Melhor: CUBE, Rank: 0
+Acertou Tarefa.
+Dificuldades: DE = 0.7388688, DD = 0.9767714
+	Atualizando conhecimento da palavra modelo
+		Nao foram realizados tarefas suficientes para analise do conhecimento dessa palavra
+	Nao ha tarefas pendentes no Buffer
+
+Tarefa Criada: Tipo Tarefa -> [BE, Peso: 0.26, Dificuldade: 6]; Modelo -> [bolo, Num Silabas: 2]; TL: 0; TMov: 0, TMj: 0, TP: 0, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [BE, Peso: 0.26, Dificuldade: 6]; Modelo -> [bolo, Num Silabas: 2]; TL: 5.08602; TMov: 8.419048, TMj: 13.50507, TP: 5.086024, Acertou Ultima: True
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 0; JETPACK, Rank: 0; ], Melhor: CUBE, Rank: 0
+Acertou Tarefa.
+Dificuldades: DE = 0.8218688, DD = 0.9785819
+	Atualizando conhecimento da palavra modelo
+		Conhecimento da Palavra: 0, Maior Conhecimento: 0.9785819, Media dos conhecimentos: 0.9785819
+		Conhecimento atualizado para 0.9785819
+	Nao ha tarefas pendentes no Buffer
+
+Tarefa Criada: Tipo Tarefa -> [AC, Peso: 0.13, Dificuldade: 3]; Modelo -> [tomate, Num Silabas: 3]; TL: 0; TMov: 0, TMj: 0, TP: 0, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [AC, Peso: 0.13, Dificuldade: 3]; Modelo -> [tomate, Num Silabas: 3]; TL: 1.451561; TMov: 1.649317, TMj: 3.100878, TP: 1.451561, Acertou Ultima: True
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 0; JETPACK, Rank: 0; ], Melhor: CUBE, Rank: 0
+Acertou Tarefa.
+Dificuldades: DE = 0.8098049, DD = 0.9783276
+	Atualizando conhecimento da palavra modelo
+		Nao foram realizados tarefas suficientes para analise do conhecimento dessa palavra
+	Nao ha tarefas pendentes no Buffer
+Fim da Sessao: 17:10:01 - 10/01/2016

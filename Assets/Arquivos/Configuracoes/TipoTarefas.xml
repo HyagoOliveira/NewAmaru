@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TipoTarefaContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TipoTarefas>
+    <TipoTarefa>
+      <id>0</id>
+      <nome>AB</nome>
+      <peso>0.06</peso>
+      <dificuldade>1</dificuldade>
+    </TipoTarefa>
+    <TipoTarefa>
+      <id>1</id>
+      <nome>AC</nome>
+      <peso>0.13</peso>
+      <dificuldade>3</dificuldade>
+    </TipoTarefa>
+    <TipoTarefa>
+      <id>2</id>
+      <nome>BC</nome>
+      <peso>0.1</peso>
+      <dificuldade>2</dificuldade>
+    </TipoTarefa>
+    <TipoTarefa>
+      <id>3</id>
+      <nome>CB</nome>
+      <peso>0.2</peso>
+      <dificuldade>4</dificuldade>
+    </TipoTarefa>
+    <TipoTarefa>
+      <id>4</id>
+      <nome>AE</nome>
+      <peso>0.25</peso>
+      <dificuldade>5</dificuldade>
+    </TipoTarefa>
+    <TipoTarefa>
+      <id>5</id>
+      <nome>BE</nome>
+      <peso>0.26</peso>
+      <dificuldade>6</dificuldade>
+    </TipoTarefa>
+  </TipoTarefas>
+</TipoTarefaContainer>

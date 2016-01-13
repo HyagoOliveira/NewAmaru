@@ -1,0 +1,73 @@
+Inicio da Sessao: 16:19:34 - 10/01/2016
+Tarefa Criada: Tipo Tarefa -> [AB, Peso: 0.06, Dificuldade: 1]; Modelo -> [pipa, Num Silabas: 2]; TL: 0; TMov: 0, TMj: 0, TP: 0, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [AB, Peso: 0.06, Dificuldade: 1]; Modelo -> [pipa, Num Silabas: 2]; TL: 5.052588; TMov: 4.075646, TMj: 9.128234, TP: 5.052581, Acertou Ultima: True
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 0; JETPACK, Rank: 0; ], Melhor: CUBE, Rank: 0
+	Acertou Tarefa.
+	Dificuldades: DE = 0.7178048, DD = 0.9762887
+	Atualizando conhecimento da palavra modelo
+		Nao foram realizados tarefas suficientes para analise do conhecimento dessa palavra
+	Nao ha tarefas pendentes no Buffer
+
+Tarefa Criada: Tipo Tarefa -> [BC, Peso: 0.1, Dificuldade: 2]; Modelo -> [bolo, Num Silabas: 2]; TL: 0; TMov: 0, TMj: 0, TP: 0, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [BC, Peso: 0.1, Dificuldade: 2]; Modelo -> [bolo, Num Silabas: 2]; TL: 5.88084; TMov: 2.485584, TMj: 8.366424, TP: 5.880839, Acertou Ultima: False
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 0; JETPACK, Rank: 0; ], Melhor: CUBE, Rank: 0
+	Errou Tarefa.
+	Agente DDA sendo executado...
+	Regressao sendo feita...
+	Tarefa BC salva no buffer
+	Reducao da Dificuldade do Tipo de Tarefa: BC, Peso: 0.1, Dificuldade: 2 -> AB, Peso: 0.06, Dificuldade: 1
+	Regressao realizada.
+
+Tarefa Criada: Tipo Tarefa -> [AB, Peso: 0.06, Dificuldade: 1]; Modelo -> [bolo, Num Silabas: 2]; TL: 5.88084; TMov: 2.485584, TMj: 8.366424, TP: 5.880839, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [AB, Peso: 0.06, Dificuldade: 1]; Modelo -> [bolo, Num Silabas: 2]; TL: 5.002942; TMov: 4.307651, TMj: 9.310593, TP: 5.002939, Acertou Ultima: True
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 6; JETPACK, Rank: 0; ], Melhor: JETPACK, Rank: 0
+	Acertou Tarefa.
+	Dificuldades: DE = 0.5578688, DD = 0.9722902
+	Atualizando conhecimento da palavra modelo
+		Nao foram realizados tarefas suficientes para analise do conhecimento dessa palavra
+	Tarefa BC pendente armazenada no Buffer sendo retirada.
+
+Tarefa Criada: Tipo Tarefa -> [BC, Peso: 0.1, Dificuldade: 2]; Modelo -> [bolo, Num Silabas: 2]; TL: 5.88084; TMov: 2.485584, TMj: 8.366424, TP: 5.880839, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [BC, Peso: 0.1, Dificuldade: 2]; Modelo -> [bolo, Num Silabas: 2]; TL: 2.79963; TMov: 1.689628, TMj: 4.489258, TP: 2.799632, Acertou Ultima: True
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 9; JETPACK, Rank: 0; ], Melhor: JETPACK, Rank: 0
+	Acertou Tarefa.
+	Dificuldades: DE = 0.5978689, DD = 0.9733478
+	Atualizando conhecimento da palavra modelo
+		Nao foram realizados tarefas suficientes para analise do conhecimento dessa palavra
+	Nao ha tarefas pendentes no Buffer
+
+Tarefa Criada: Tipo Tarefa -> [CB, Peso: 0.2, Dificuldade: 4]; Modelo -> [tatu, Num Silabas: 2]; TL: 0; TMov: 0, TMj: 0, TP: 0, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [CB, Peso: 0.2, Dificuldade: 4]; Modelo -> [tatu, Num Silabas: 2]; TL: 4.98734; TMov: 3.793074, TMj: 8.780415, TP: 4.987345, Acertou Ultima: True
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 9; JETPACK, Rank: 0; ], Melhor: JETPACK, Rank: 0
+	Acertou Tarefa.
+	Dificuldades: DE = 0.7388688, DD = 0.9767714
+	Atualizando conhecimento da palavra modelo
+		Nao foram realizados tarefas suficientes para analise do conhecimento dessa palavra
+	Nao ha tarefas pendentes no Buffer
+
+Tarefa Criada: Tipo Tarefa -> [BE, Peso: 0.26, Dificuldade: 6]; Modelo -> [bolo, Num Silabas: 2]; TL: 0; TMov: 0, TMj: 0, TP: 0, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [BE, Peso: 0.26, Dificuldade: 6]; Modelo -> [bolo, Num Silabas: 2]; TL: 10.33624; TMov: 4.821694, TMj: 15.15793, TP: 10.33624, Acertou Ultima: True
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 9; JETPACK, Rank: 0; ], Melhor: JETPACK, Rank: 0
+	Acertou Tarefa.
+	Dificuldades: DE = 0.8218688, DD = 0.9785819
+	Atualizando conhecimento da palavra modelo
+		Conhecimento da Palavra: 0, Maior Conhecimento: 0.9785819, Media dos conhecimentos: 0.9785819
+		Conhecimento atualizado para 0.9785819
+	Nao ha tarefas pendentes no Buffer
+
+Tarefa Criada: Tipo Tarefa -> [AC, Peso: 0.13, Dificuldade: 3]; Modelo -> [tomate, Num Silabas: 3]; TL: 0; TMov: 0, TMj: 0, TP: 0, Acertou Ultima: False
+Tarefa Concluida: Tipo Tarefa -> [AC, Peso: 0.13, Dificuldade: 3]; Modelo -> [tomate, Num Silabas: 3]; TL: 7.404728; TMov: 2.78362, TMj: 10.18835, TP: 7.40473, Acertou Ultima: True
+	Atualizando Rank de Minijogos...
+		Minijogos -> [CUBE, Rank: 9; JETPACK, Rank: 0; ], Melhor: JETPACK, Rank: 0
+	Acertou Tarefa.
+	Dificuldades: DE = 0.8098049, DD = 0.9783276
+	Atualizando conhecimento da palavra modelo
+		Nao foram realizados tarefas suficientes para analise do conhecimento dessa palavra
+	Nao ha tarefas pendentes no Buffer
+Fim da Sessao: 16:21:15 - 10/01/2016

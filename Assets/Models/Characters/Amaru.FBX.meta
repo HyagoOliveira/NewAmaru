@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 8de0f96197418ad4a80aad1cba67dccc
+timeCreated: 1447719065
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head
+    100004: HeadNub
+    100006: HeadTail1
+    100008: HeadTail2
+    100010: HeadTail3
+    100012: HeadTailNub
+    100014: Hips
+    100016: LeftAerial1
+    100018: LeftAerial2
+    100020: LeftAerial3
+    100022: LeftAerial4
+    100024: LeftAerialNub
+    100026: LeftAnkle
+    100028: LeftArm
+    100030: LeftEar1
+    100032: LeftEar2
+    100034: LeftEarNub
+    100036: LeftFoot
+    100038: LeftFootNub
+    100040: LeftForearm
+    100042: LeftHand
+    100044: LeftHandNub
+    100046: LeftLeg
+    100048: LeftShoulder
+    100050: LeftUpLeg
+    100052: mesh
+    100054: Neck
+    100056: Reference
+    100058: RightAerial1
+    100060: RightAerial2
+    100062: RightAerial3
+    100064: RightAerial4
+    100066: RightAerialNub
+    100068: RightAnkle
+    100070: RightArm
+    100072: RightEar1
+    100074: RightEar2
+    100076: RightEarNub
+    100078: RightFoot
+    100080: RightFootNub
+    100082: RightForearm
+    100084: RightHand
+    100086: RightHandNub
+    100088: RightLeg
+    100090: RightShoulder
+    100092: RightUpLeg
+    100094: Spine
+    100096: Spine 1
+    400000: //RootNode
+    400002: Head
+    400004: HeadNub
+    400006: HeadTail1
+    400008: HeadTail2
+    400010: HeadTail3
+    400012: HeadTailNub
+    400014: Hips
+    400016: LeftAerial1
+    400018: LeftAerial2
+    400020: LeftAerial3
+    400022: LeftAerial4
+    400024: LeftAerialNub
+    400026: LeftAnkle
+    400028: LeftArm
+    400030: LeftEar1
+    400032: LeftEar2
+    400034: LeftEarNub
+    400036: LeftFoot
+    400038: LeftFootNub
+    400040: LeftForearm
+    400042: LeftHand
+    400044: LeftHandNub
+    400046: LeftLeg
+    400048: LeftShoulder
+    400050: LeftUpLeg
+    400052: mesh
+    400054: Neck
+    400056: Reference
+    400058: RightAerial1
+    400060: RightAerial2
+    400062: RightAerial3
+    400064: RightAerial4
+    400066: RightAerialNub
+    400068: RightAnkle
+    400070: RightArm
+    400072: RightEar1
+    400074: RightEar2
+    400076: RightEarNub
+    400078: RightFoot
+    400080: RightFootNub
+    400082: RightForearm
+    400084: RightHand
+    400086: RightHandNub
+    400088: RightLeg
+    400090: RightShoulder
+    400092: RightUpLeg
+    400094: Spine
+    400096: Spine 1
+    4300000: mesh
+    9500000: //RootNode
+    13700000: mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Reference
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

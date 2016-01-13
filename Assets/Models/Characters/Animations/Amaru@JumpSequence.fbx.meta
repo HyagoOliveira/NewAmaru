@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 2e54d02207e79ca4d8cdec22b11bd56f
+timeCreated: 1447809154
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head
+    100004: HeadNub
+    100006: HeadTail1
+    100008: HeadTail2
+    100010: HeadTail3
+    100012: HeadTailNub
+    100014: Hips
+    100016: LeftAerial1
+    100018: LeftAerial2
+    100020: LeftAerial3
+    100022: LeftAerial4
+    100024: LeftAerialNub
+    100026: LeftAnkle
+    100028: LeftArm
+    100030: LeftEar1
+    100032: LeftEar2
+    100034: LeftEarNub
+    100036: LeftFoot
+    100038: LeftFootNub
+    100040: LeftForearm
+    100042: LeftHand
+    100044: LeftHandNub
+    100046: LeftLeg
+    100048: LeftShoulder
+    100050: LeftUpLeg
+    100052: Neck
+    100054: Reference
+    100056: RightAerial1
+    100058: RightAerial2
+    100060: RightAerial3
+    100062: RightAerial4
+    100064: RightAerialNub
+    100066: RightAnkle
+    100068: RightArm
+    100070: RightEar1
+    100072: RightEar2
+    100074: RightEarNub
+    100076: RightFoot
+    100078: RightFootNub
+    100080: RightForearm
+    100082: RightHand
+    100084: RightHandNub
+    100086: RightLeg
+    100088: RightShoulder
+    100090: RightUpLeg
+    100092: Spine
+    100094: Spine 1
+    400000: //RootNode
+    400002: Head
+    400004: HeadNub
+    400006: HeadTail1
+    400008: HeadTail2
+    400010: HeadTail3
+    400012: HeadTailNub
+    400014: Hips
+    400016: LeftAerial1
+    400018: LeftAerial2
+    400020: LeftAerial3
+    400022: LeftAerial4
+    400024: LeftAerialNub
+    400026: LeftAnkle
+    400028: LeftArm
+    400030: LeftEar1
+    400032: LeftEar2
+    400034: LeftEarNub
+    400036: LeftFoot
+    400038: LeftFootNub
+    400040: LeftForearm
+    400042: LeftHand
+    400044: LeftHandNub
+    400046: LeftLeg
+    400048: LeftShoulder
+    400050: LeftUpLeg
+    400052: Neck
+    400054: Reference
+    400056: RightAerial1
+    400058: RightAerial2
+    400060: RightAerial3
+    400062: RightAerial4
+    400064: RightAerialNub
+    400066: RightAnkle
+    400068: RightArm
+    400070: RightEar1
+    400072: RightEar2
+    400074: RightEarNub
+    400076: RightFoot
+    400078: RightFootNub
+    400080: RightForearm
+    400082: RightHand
+    400084: RightHandNub
+    400086: RightLeg
+    400088: RightShoulder
+    400090: RightUpLeg
+    400092: Spine
+    400094: Spine 1
+    7400000: Land
+    7400002: Jumping
+    7400004: Falling
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Land
+      takeName: Landing
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftAnkle
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftAnkle/LeftFoot
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftAnkle/LeftFoot/LeftFootNub
+        weight: 1
+      - path: Reference/Hips/RightUpLeg
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightAnkle
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightAnkle/RightFoot
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightAnkle/RightFoot/RightFootNub
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm/LeftForearm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm/LeftForearm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm/LeftForearm/LeftHand/LeftHandNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1/HeadTail2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1/HeadTail2/HeadTail3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1/HeadTail2/HeadTail3/HeadTailNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2/LeftAerial3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2/LeftAerial3/LeftAerial4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2/LeftAerial3/LeftAerial4/LeftAerialNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftEar1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftEar1/LeftEar2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftEar1/LeftEar2/LeftEarNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2/RightAerial3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2/RightAerial3/RightAerial4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2/RightAerial3/RightAerial4/RightAerialNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightEar1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightEar1/RightEar2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightEar1/RightEar2/RightEarNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm/RightForearm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm/RightForearm/RightHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm/RightForearm/RightHand/RightHandNub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jumping
+      takeName: Jumping
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftAnkle
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftAnkle/LeftFoot
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftAnkle/LeftFoot/LeftFootNub
+        weight: 1
+      - path: Reference/Hips/RightUpLeg
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightAnkle
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightAnkle/RightFoot
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightAnkle/RightFoot/RightFootNub
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm/LeftForearm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm/LeftForearm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm/LeftForearm/LeftHand/LeftHandNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1/HeadTail2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1/HeadTail2/HeadTail3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1/HeadTail2/HeadTail3/HeadTailNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2/LeftAerial3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2/LeftAerial3/LeftAerial4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2/LeftAerial3/LeftAerial4/LeftAerialNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftEar1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftEar1/LeftEar2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftEar1/LeftEar2/LeftEarNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2/RightAerial3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2/RightAerial3/RightAerial4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2/RightAerial3/RightAerial4/RightAerialNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightEar1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightEar1/RightEar2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightEar1/RightEar2/RightEarNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm/RightForearm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm/RightForearm/RightHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm/RightForearm/RightHand/RightHandNub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Falling
+      takeName: Falling
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Reference
+        weight: 1
+      - path: Reference/Hips
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftAnkle
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftAnkle/LeftFoot
+        weight: 1
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftAnkle/LeftFoot/LeftFootNub
+        weight: 1
+      - path: Reference/Hips/RightUpLeg
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightAnkle
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightAnkle/RightFoot
+        weight: 1
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightAnkle/RightFoot/RightFootNub
+        weight: 1
+      - path: Reference/Hips/Spine
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm/LeftForearm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm/LeftForearm/LeftHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/LeftShoulder/LeftArm/LeftForearm/LeftHand/LeftHandNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1/HeadTail2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1/HeadTail2/HeadTail3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/HeadTail1/HeadTail2/HeadTail3/HeadTailNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2/LeftAerial3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2/LeftAerial3/LeftAerial4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftAerial1/LeftAerial2/LeftAerial3/LeftAerial4/LeftAerialNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftEar1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftEar1/LeftEar2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/LeftEar1/LeftEar2/LeftEarNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2/RightAerial3
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2/RightAerial3/RightAerial4
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightAerial1/RightAerial2/RightAerial3/RightAerial4/RightAerialNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightEar1
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightEar1/RightEar2
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/Neck/Head/RightEar1/RightEar2/RightEarNub
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm/RightForearm
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm/RightForearm/RightHand
+        weight: 1
+      - path: Reference/Hips/Spine/Spine 1/RightShoulder/RightArm/RightForearm/RightHand/RightHandNub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Reference
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 8de0f96197418ad4a80aad1cba67dccc,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
